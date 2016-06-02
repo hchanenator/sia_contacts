@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.herb.Contacts;
+package org.herb.Contacts.model;
 
 /**
  * @author herb
